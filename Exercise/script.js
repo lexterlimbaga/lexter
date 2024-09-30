@@ -101,7 +101,6 @@ const students=[
 
 
 
-
 // console.log(student[1]);
 
 // console.log(students[0]);
